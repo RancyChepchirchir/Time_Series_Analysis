@@ -1,0 +1,30 @@
+Installing Packages - Exercise Solution
+Solution:
+
+
+
+1. Enter the Anaconda Prompt, as seen in the lecture and write:
+
+pip install matplotlib
+
+or
+
+conda install matplotlib
+
+You should receive a message that matplotlib is already installed (it comes with Anaconda, remember?)
+
+
+
+2. Enter the Anaconda Prompt, as seen in the lecture and write:
+
+pip install seaborn
+
+or
+
+conda install seaborn
+
+
+
+3. Enter the Anaconda Prompt, as seen in the lecture and write:
+
+pip install arch

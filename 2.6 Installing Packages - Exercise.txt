@@ -1,0 +1,10 @@
+Installing Packages - Exercise
+Problem: Install three packages if you don’t have them.
+
+
+
+1. matplotlib – a plotting library for Python and its numerical mathematics extension NumPy
+
+2. seaborn –  plotting library for Python and modeling in particular that is based on matplotlib
+
+3. arch - a statistical modelling package that we will employ throughout the course
